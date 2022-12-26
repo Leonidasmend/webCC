@@ -1,0 +1,59 @@
+
+
+body {
+    background-color: #90EE90;
+}
+
+.circular{
+        
+    border-radius: 50%;
+    border-style: 4px solid;
+    border-color: blue;
+  
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+.separate{
+    display: flex;
+    justify-content:flex-end ;
+}
+.separat{
+    
+    justify-content:space-around ;
+
+
+}
+
+h4,h1,h3{
+    text-align:justify;
+    font-family: sans-serif;
+
+}
+
+table {
+    border: 1px solid;
+    text-align:center;
+    font-family: sans-serif;
+    width: 100%;
+  }
+
+  .police{
+    font-family: sans-serif;
+  }
+
+  li{
+    text-align:justify;
+    font-family: sans-serif;
+
+  }
+
+  img :hover{
+    background-color: gold;
+}
